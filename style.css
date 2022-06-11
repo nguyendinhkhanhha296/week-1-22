@@ -1,0 +1,22 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.general {
+    position:fixed
+    display: block;
+}
+
+.header {
+    color: Blue;
+}
+
+.form {
+    color: black;
+}
+
+#h3 {
+    color: red;
+    display:inline;
+}
+
